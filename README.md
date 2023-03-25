@@ -1,4 +1,7 @@
-### Hi there 👋
+# 👋 hi, I'm orphandeity...
+- 👨‍💻 Web Developer
+- 🎛️ Modular Synth Addict
+- 🎸 Garage Musician
 
 <!--
 **orphandeity/orphandeity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
