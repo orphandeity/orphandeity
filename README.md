@@ -1,8 +1,6 @@
 # Jeff Williams | Web Developer
-
-- Electronic Musician 🎵
-- Code Enthusiast 💻
-
+👨‍💻 Electronic Musician 🎵 | Code Enthusiast 💻 | Bridging Art and Technology 🚀 | Evolving through music and web development 🌐 | Frontend Engineer in the making 📚 | Seeking opportunities to contribute and learn 🌟 #MusicTech #WebDev
+*****
 
 <!--
 **orphandeity/orphandeity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
